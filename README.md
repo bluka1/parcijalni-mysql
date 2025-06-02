@@ -8,7 +8,7 @@
 3. napraviti rješenje
 4. screenshotati ER dijagrame (zajedno s datumom i prikazom vašeg imena na screenu)
 5. kod i slike dodati na vaš branch
-6. pushati na repozitorij
+6. pushati na repozitorij i napraviti PR
 
 ## 📋 Opis zadatka
 
