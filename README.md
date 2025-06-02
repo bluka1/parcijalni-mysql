@@ -35,4 +35,4 @@ Cilj je dizajnirati i implementirati bazu koja omogućuje učinkovito praćenje 
 6. Dohvatite sve narudžbe s imenima konobara, stolovima i nazivima jela. (SQL upiti - sql file)
 7. Dohvatite broj narudžbi po stolu. (SQL upiti - sql file)
 8. Kreirajte pohranjenu proceduru koja prikazuje broj narudžbi po kategoriji jela. (SQL upiti - sql file)
-9. Dohvatite sve stolove koji trenutno nemaju niti jednu narudžbu. (SQL upiti - sql file)
+9. Kroz pogled dohvatite sve stolove koji trenutno nemaju niti jednu narudžbu. (SQL upiti - sql file)
